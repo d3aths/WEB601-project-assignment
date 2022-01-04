@@ -12,9 +12,9 @@ const Meta = ({ title, description, keywords }) => {
 }
 
 Meta.defaultProps = {
-  title: 'Welcome To Shopping App',
+  title: 'Welcome To Fantasy Keycaps',
   description: 'We sell the best products',
-  keywords: 'shopping, buy, cheap',
+  keywords: 'shopping, buy, cheap, keycaps, keyboard, RGB, computer parts, gaming',
 }
 
 export default Meta

@@ -18,10 +18,10 @@ const Header = () => {
 
   return (
     <header>
-      <Navbar bg='warning' variant='warning' expand='lg' collapseOnSelect>
+      <Navbar bg='info' variant='blue' expand='lg' collapseOnSelect>
         <Container>
           <LinkContainer to='/'>
-            <Navbar.Brand>Shopping App</Navbar.Brand>
+            <Navbar.Brand>Fantasy Keycaps</Navbar.Brand>
           </LinkContainer>
           <Navbar.Toggle aria-controls='basic-navbar-nav' />
           <Navbar.Collapse id='basic-navbar-nav'>
