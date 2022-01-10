@@ -55,7 +55,7 @@ Shopping cart has the ability to change quantity, remove items, view total cost 
 Customer's profile page displays editable information and any orders their account has placed
 ![info](/uploads/12.png)
 
-Products are searchable
+Products are searchable  
 ![search](/uploads/13.png)
 
 ## Code functionality
@@ -83,36 +83,37 @@ Frontend/src is where the visual interface of the website is created. This websi
 
 ## Milestone 2 UX Tasks
 
-A1. Briefly explain with examples the techniques which are used to get information from the user to develop user experience:
-- Questioning
-- Listening
+#### A1. Briefly explain with examples the techniques which are used to get information from the user to develop user experience:  
+- Questioning  
+- Listening  
 Answer in 80-120 words
 
 1. The questioning technique is about asking the right question to get the right answer, that is, getting specific and assertive answers, which collaborate to solve a problem. An example is the "how might we" questions. These questions are the actual problems the UX design solution should be focused on. For instance, the how might we question could sound like "How might we provide appropriate information to the international graduates so they can find a job faster?"
 2. The listening technique is about paying close attention to what the user is saying to find out exactly what they need. Listening to the customers feedback and adjusting the solution to be more exclusive makes the customer feel more important and special.
 
-A2. List and explain any three UX principles  
+#### A2. List and explain any three UX principles  
 Answer in 100-150 words.  
-1.Focus on the user: this principle is at the heart of UX design because it helps to address a commonproblem in website design: as designers become more adept at working with complex web designframeworks,  they  may  find themselves designing sites that are more concerned with impressing fellow web designers than with providing a great experience to real-life users.  
-2.Consistency: is a more particular element of UX design that is highly crucial when it comes to creating a  successful website. Consistency, in its broadest sense, implies that your designs and functionality are consistent throughout all of your pages and products.  
-3.Accessibility: it involves making your designs accessible to all users, including those with impairments.  It's critical to prioritize accessibility in your design approach for at least two reasons:  
+1. Focus on the user: this principle is at the heart of UX design because it helps to address a commonproblem in website design: as designers become more adept at working with complex web designframeworks, they may find themselves designing sites that are more concerned with impressing fellow web designers than with providing a great experience to real-life users.  
+2. Consistency: is a more particular element of UX design that is highly crucial when it comes to creating a successful website. Consistency, in its broadest sense, implies that your designs and functionality are consistent throughout all of your pages and products.  
+3. Accessibility: it involves making your designs accessible to all users, including those with impairments. It's critical to prioritize accessibility in your design approach for at least two reasons:  
 1) It will give a positive experience for your users;  
 2) There are several rules mandating you to provide equal access.
 
-A3. Provide a brief description of the following UX values:   •Usefulness•Aesthetics•Desirability•Useability•Function  
+#### A3. Provide a brief description of the following UX values:  
+•Usefulness•Aesthetics•Desirability•Useability•Function  
 in 100-150 words.  
-1.Usefulness: every product is designed to solve any particular user problem. The usefulness of aproduct can be determined by the capacity of that solution to meet user needs and accomplish acertain task.  
-2.Aesthetics: it refers to the emotions and sensations that a user experiences when using a system. It has the power to create or shatter any established solution's emotional appeal. To build a lasting relationship  between a user and the system, it is critical to have an appealing and memorable interface.  
-3.Desirability: it refers to the component of the system that is entertaining and engaging. It’s the process of persuading a user to do a certain action via the use of appropriate design. It's one ofthe characteristics that distinguishes market leaders from their rivals. A page may be made more attractive and engaging for    customers by including graphics, information, and other aspects.  
-4.Usability: it refers to the easiness of the product to be used and complete all the goals and taskseasily.
-5.Functionality: it refers to whether or not the design works and assists the user in achieving their objectives and needs. When a design is properly capable of doing the tasks, it is supposed to complete, it   is deemed to have optimum functionality. The system must be dependable, consistent,and capable of doing the essential duties whenever the user requires it.
+1. Usefulness: every product is designed to solve any particular user problem. The usefulness of aproduct can be determined by the capacity of that solution to meet user needs and accomplish acertain task.  
+2. Aesthetics: it refers to the emotions and sensations that a user experiences when using a system. It has the power to create or shatter any established solution's emotional appeal. To build a lasting relationship  between a user and the system, it is critical to have an appealing and memorable interface.  
+3. Desirability: it refers to the component of the system that is entertaining and engaging. It’s the process of persuading a user to do a certain action via the use of appropriate design. It's one ofthe characteristics that distinguishes market leaders from their rivals. A page may be made more attractive and engaging for customers by including graphics, information, and other aspects.  
+4. Usability: it refers to the easiness of the product to be used and complete all the goals and taskseasily.
+5. Functionality: it refers to whether or not the design works and assists the user in achieving their objectives and needs. When a design is properly capable of doing the tasks, it is supposed to complete, it is deemed to have optimum functionality. The system must be dependable, consistent,and capable of doing the essential duties whenever the user requires it.
 
-A4. List any five methods which are used to gather information from users regarding the user experience.  Briefly describe each one. Answer in 100-150 words.  
-1.Contextual Interviews: allows you to observe users in their natural setting, allowing you to gain adeeper knowledge of how they function.  
-2.First Click Testing: is a navigation-focused testing approach that may be applied on a live website, a  prototype, or a  wireframe.  
-3.Focus  Groups: a moderated conversation with a group of users that provides insight into the attitudes, ideas, and wants of the users.  
-4.Personas: a persona is a representation of a user based on data and user interviews. The information used to generate the user type is not fictitious, even if the persona's personal characteristics are.  
-5.Prototyping: creating  a mock-up of the site allows the design team to test ideas before implementing  them. A prototype might be anything from a simple paper mock-up to a series of interactive HTML pages.
+#### A4. List any five methods which are used to gather information from users regarding the user experience.  Briefly describe each one. Answer in 100-150 words.  
+1. Contextual Interviews: allows you to observe users in their natural setting, allowing you to gain adeeper knowledge of how they function.  
+2. First Click Testing: is a navigation-focused testing approach that may be applied on a live website, a prototype, or a wireframe.  
+3. Focus Groups: a moderated conversation with a group of users that provides insight into the attitudes, ideas, and wants of the users.  
+4. Personas: a persona is a representation of a user based on data and user interviews. The information used to generate the user type is not fictitious, even if the persona's personal characteristics are.  
+5. Prototyping: creating a mock-up of the site allows the design team to test ideas before implementing them. A prototype might be anything from a simple paper mock-up to a series of interactive HTML pages.
 
-A5. Describe what is meant by wireframes in user experience. Answer in 50-100 words.  
-Wireframes are a type of web page layout that shows which interface components will be included onthe main pages. One of the most crucial parts of the interface design process is wireframing. The basicgoal  of  wireframes is to visualize how a web page might appear. It is quite beneficial to obtain stakeholder permission so that the development team may begin developing the solution. Wireframing is a stage in the product life cycle that takes place at the beginning. It's when developers are putting the project's scope to the test, collaborating on ideas, and figuring out what the business needs are. During the development of a   web page, a wireframe is an initial iteration.
+#### A5. Describe what is meant by wireframes in user experience. Answer in 50-100 words.  
+Wireframes are a type of web page layout that shows which interface components will be included onthe main pages. One of the most crucial parts of the interface design process is wireframing. The basicgoal  of  wireframes is to visualize how a web page might appear. It is quite beneficial to obtain stakeholder permission so that the development team may begin developing the solution. Wireframing is a stage in the product life cycle that takes place at the beginning. It's when developers are putting the project's scope to the test, collaborating on ideas, and figuring out what the business needs are. During the development of a web page, a wireframe is an initial iteration.
